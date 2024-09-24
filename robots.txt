@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iblutec.github.io/sitemap.html.gz
+Sitemap: https://iblutec.github.io/app/sitemap.html.gz
+Sitemap: https://iblutec.github.io/assets/sitemap.html.gz
+Sitemap: https://iblutec.github.io/css/sitemap.html.gz
+Sitemap: https://iblutec.github.io/data/sitemap.html.gz
+Sitemap: https://iblutec.github.io/includes/sitemap.html.gz
+Sitemap: https://iblutec.github.io/item/sitemap.html.gz
+Sitemap: https://iblutec.github.io/src/sitemap.html.gz
